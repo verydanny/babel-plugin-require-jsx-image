@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-require-jsx-image",
+  "version": "1.0.1",
+  "description": "Automatically requires jsx images",
+  "scripts": {
+    "build": "babel -d lib/ src/"
+  },
+  "main": "lib/index.js",
+  "author": "Daniil Veremchuk",
+  "keywords": [
+    "babel",
+    "url",
+    "alias"
+  ],
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.42",
+    "@babel/core": "^7.0.0-beta.42",
+    "@babel/preset-env": "^7.0.0-beta.42",
+    "@babel/preset-stage-0": "^7.0.0-beta.42"
+  }
+}
