@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-require-jsx-image",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Automatically requires jsx images",
   "scripts": {
     "build": "babel -d lib/ src/"
@@ -13,7 +13,7 @@
     "alias"
   ],
   "license": "MIT",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "@babel/cli": "^7.0.0-beta.42",
     "@babel/core": "^7.0.0-beta.42",
