@@ -7,6 +7,13 @@
   },
   "main": "lib/index.js",
   "author": "Daniil Veremchuk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/verydanny/babel-plugin-require-jsx-image"
+  },
+  "bugs": {
+    "url": "https://github.com/verydanny/babel-plugin-require-jsx-image/issues"
+  },
   "keywords": [
     "babel",
     "url",
