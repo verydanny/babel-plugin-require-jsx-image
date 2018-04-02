@@ -18,7 +18,7 @@ Converts image src string into require call expression. Why? So webpack aliases 
 ## Installation
 
 ```console
-$ npm install --save-dev babel-plugin-webpack-jsx-alias
+$ npm install --save-dev babel-plugin-require-jsx-image
 ```
 
 Add it as a plugin to your `.babelrc` file.
