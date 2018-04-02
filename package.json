@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-require-jsx-image",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Automatically requires jsx images",
   "scripts": {
     "build": "babel -d lib/ src/"
